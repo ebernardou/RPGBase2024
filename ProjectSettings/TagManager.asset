@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Enemy
+  - Dead
+  - BattleMenu
+  - TurnManager
+  - TargetSelect
+  - DialogueTail
+  - Canvas
+  - NPCCamera
+  - ActiveNPC
+  - EventSystem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ObjectsOverPlayer
+  - SolidObjects
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 2
+    uniqueID: 2979397641
+    locked: 0
+  - name: Player
+    uniqueID: 2127141103
+    locked: 0
+  - name: ObjectsOverPlayer
+    uniqueID: 4265645615
+    locked: 0
+  - name: UI
+    uniqueID: 728073905
+    locked: 0
